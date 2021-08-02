@@ -1,0 +1,33 @@
+.con{
+background-color:white;
+margin-top:50px;
+}
+
+body{
+overflow-x: hidden;
+background-repeat:no-repeat;
+background-size:1800px 900px;
+
+}
+.form-group{
+padding-left:0px;
+}
+
+form{
+padding-left:30px;
+padding-right:30px;
+padding-top:20px;
+padding-bottom:20px;
+}
+button{
+margin-left:40%;
+}
+h1{
+padding:5px;
+font-family: Georgia, serif;
+color:#FF8C00
+}
+.col{
+padding-left:50px;
+padding-top:50px;
+}
