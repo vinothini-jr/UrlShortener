@@ -1,0 +1,9 @@
+./manageprofiles.sh -create -profileName profile1 -profilePath /opt/IBM/WebSphere/AppServer/profiles/profile1 -profileTemplates /opt/IBM/WebSphere/AppServer/profileTemplates/default/
+
+
+
+./manageprofiles.sh -create -profileName Dmgr -profilePath /opt/IBM/WebSphere/AppServer/profiles/Dmgr -profileTemplates /opt/IBM/WebSphere/AppServer/profileTemplates/dmgr/ -cellName Cell01 -nodeName CellManager01
+
+
+
+./manageprofiles.sh -create -profileName profile2 -profilePath /opt/IBM/WebSphere/AppServer/profiles/profile2 -profileTemplates /opt/IBM/WebSphere/AppServer/profileTemplates/managed/
