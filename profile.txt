@@ -2,7 +2,7 @@
 
 
 
-./manageprofiles.sh -create -profileName Dmgr -profilePath /opt/IBM/WebSphere/AppServer/profiles/Dmgr -profileTemplates /opt/IBM/WebSphere/AppServer/profileTemplates/dmgr/ -cellName Cell01 -nodeName CellManager01
+./manageprofiles.sh -create -profileName Dmgr -profilePath /opt/IBM/WebSphere/AppServer/profiles/Dmgr -templatePath /opt/IBM/WebSphere/AppServer/profileTemplates/dmgr/ -cellName Cell01 -nodeName CellManager01
 
 
 
